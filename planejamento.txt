@@ -1,0 +1,11 @@
+- **Projeto: Lista de contatos**
+    - **Planejamento**
+        - API
+            - -Criar um novo contato
+            - -Listar os contatos
+            - -Excluir
+        - Rotas
+            - Post /contato { name: “Erik” }
+            - GET /contatos
+            - DELETE /contato?name=joão
+            -
